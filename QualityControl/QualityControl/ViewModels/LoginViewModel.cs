@@ -1,4 +1,4 @@
-﻿using QualityControl.Model;
+﻿using QualityControl.Models;
 using QualityControl.Validators;
 using QualityControl.Validators.Rules;
 using RestSharp;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BbT9Erf1D04nMpfbNNjLz98jH3n9tKJ2cxX0zgTrnNJz5awadz6jsin71OkpfPZSy+UtwBgMs8GUloBYBcO5Fw==",
+  "dgSpecHash": "l3aGpjougwqlk/0swl9mYwUkFs6aE1We3YfvZUR3mC2my2TPV1MEBtVr5wFI35tutTaVA3DB0W+jhWg+NGUDug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl\\QualityControl.csproj",
+  "projectFilePath": "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl\\QualityControl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kural\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\kural\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

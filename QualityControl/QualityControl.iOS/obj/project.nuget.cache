@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G3N6akt4AfPQ3YzWWbkZ4HKfSLDt7Akl3RxqNSHkVsoA2CVxqPHFaoyTe8dPtLKNVJDj1YfkNED9WkiTcXdkjw==",
+  "dgSpecHash": "E8lTvSeW055tViPS+Am5iStC0HAw79wLDJszuzKd9VlbSJMT4veQZNYnBZ5F9vKeZ1GmtF1CylDqhBT+GQOuKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl.iOS\\QualityControl.iOS.csproj",
+  "projectFilePath": "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl.iOS\\QualityControl.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kural\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
     "C:\\Users\\kural\\.nuget\\packages\\syncfusion.licensing\\19.1.0.57\\syncfusion.licensing.19.1.0.57.nupkg.sha512",

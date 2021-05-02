@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl\\QualityControl.csproj": {}
+    "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl\\QualityControl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl\\QualityControl.csproj": {
+    "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl\\QualityControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl\\QualityControl.csproj",
+        "projectUniqueName": "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl\\QualityControl.csproj",
         "projectName": "QualityControl",
-        "projectPath": "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl\\QualityControl.csproj",
+        "projectPath": "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl\\QualityControl.csproj",
         "packagesPath": "C:\\Users\\kural\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl\\obj\\",
+        "outputPath": "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

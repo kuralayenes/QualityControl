@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LXY/2PA9zIuJaceFRi/pWoEn7muB+N7ULicLpfN6R0v+D3lq7BEAZHVm/cdnteACSo8yUwZlRraPzNsBCyUSyg==",
+  "dgSpecHash": "g/rIdgUy5JzHjpRZW3hMkeNqxMy6gJit9BiPD+5TvphkawvsXzWSjgEk1vInRPTrm93zqkGevG3PiDcZxCK8jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl.Android\\QualityControl.Android.csproj",
+  "projectFilePath": "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl.Android\\QualityControl.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kural\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
     "C:\\Users\\kural\\.nuget\\packages\\syncfusion.licensing\\19.1.0.57\\syncfusion.licensing.19.1.0.57.nupkg.sha512",

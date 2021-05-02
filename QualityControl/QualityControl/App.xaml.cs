@@ -11,12 +11,13 @@ namespace QualityControl
 {
     public partial class App : Application
     {
+        public static string ImageServerPath { get; } = "https://cdn.syncfusion.com/essential-ui-kit-for-xamarin.forms/common/uikitimages/";
         public App()
         {
             Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NDM0ODI1QDMxMzkyZTMxMmUzMEFXd3FLYTREVkVHMGdMWVB1Z0c2M0R3d0xvV1FIUkFEOFJYb3hqeGQzTGs9");
             InitializeComponent();
 
-            MainPage = new Views.LoginPage();
+            MainPage = new Views.HomePage();
         }
 
         protected override void OnStart()

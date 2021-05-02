@@ -2534,11 +2534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl.Android\\QualityControl.Android.csproj",
+      "projectUniqueName": "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl.Android\\QualityControl.Android.csproj",
       "projectName": "QualityControl.Android",
-      "projectPath": "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl.Android\\QualityControl.Android.csproj",
+      "projectPath": "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl.Android\\QualityControl.Android.csproj",
       "packagesPath": "C:\\Users\\kural\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl.Android\\obj\\",
+      "outputPath": "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2559,8 +2559,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl\\QualityControl.csproj": {
-              "projectPath": "C:\\Users\\kural\\source\\repos\\QualityControl\\QualityControl\\QualityControl\\QualityControl.csproj"
+            "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl\\QualityControl.csproj": {
+              "projectPath": "C:\\Techtsio\\Qualitycontrol\\QualityControl\\QualityControl\\QualityControl.csproj"
             }
           }
         }
