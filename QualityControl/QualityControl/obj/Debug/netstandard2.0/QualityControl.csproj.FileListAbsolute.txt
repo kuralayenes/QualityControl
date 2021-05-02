@@ -72,3 +72,5 @@ C:\Techtsio\Qualitycontrol\QualityControl\QualityControl\obj\Debug\netstandard2.
 C:\Techtsio\Qualitycontrol\QualityControl\QualityControl\obj\Debug\netstandard2.0\QualityControl.pdb
 C:\Techtsio\Qualitycontrol\QualityControl\QualityControl\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
 C:\Techtsio\Qualitycontrol\QualityControl\QualityControl\obj\Debug\netstandard2.0\Views\Templates\ArticleActivityTemplate.xaml.g.cs
+C:\Techtsio\Qualitycontrol\QualityControl\QualityControl\obj\Debug\netstandard2.0\Views\ContactEmailEntry.xaml.g.cs
+C:\Techtsio\Qualitycontrol\QualityControl\QualityControl\obj\Debug\netstandard2.0\Views\InformationEntry.xaml.g.cs

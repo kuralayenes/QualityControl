@@ -17,7 +17,7 @@ namespace QualityControl
             Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NDM0ODI1QDMxMzkyZTMxMmUzMEFXd3FLYTREVkVHMGdMWVB1Z0c2M0R3d0xvV1FIUkFEOFJYb3hqeGQzTGs9");
             InitializeComponent();
 
-            MainPage = new Views.HomePage();
+            MainPage = new Views.InformationEntry();
         }
 
         protected override void OnStart()
